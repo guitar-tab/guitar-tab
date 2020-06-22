@@ -1,0 +1,9 @@
+.tab-view {
+  width: 1000px;
+  margin: 1em auto;
+}
+
+.tab-view img.tab-image {
+  width: 100%;
+  display: block;
+}
